@@ -2,7 +2,7 @@ package rikao_0621;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-//test rikao_0621 test03
+//test rikao_0621 test03   0000.3
 public class TestStr {
    public static void main(String[] args) {
 	  String subStr ="北京市人民政府和北京市政协";
